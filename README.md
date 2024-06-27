@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @voidapex11
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me: create a pull request on voidapex11/voidapex11
+- 🌱 I’m currently building the css&html of my blog!
+- 🦥 How to reach me: create a pull request on voidapex11/voidapex11
 - 😄 Pronouns: he/him
-- I have a (WIP) dormain! https://voidapex11.w3spaces.com/
+- I have a (WIP) dormain! https://voidapex11.github.io/
+- 🦥🦥🦥Sloths are great🦥🦥🦥
+- Blog coming soon
