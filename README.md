@@ -2,6 +2,7 @@
 - 🌱 I’m currently building the css&html of my blog!
 - 🦥 How to reach me: create a pull request on voidapex11/voidapex11
 - 😄 Pronouns: he/him
-- I have a (WIP) dormain! https://voidapex11.github.io/
+- use uv not pip as its way faster, astral.sh/uv
+- controversial statement: "vim."
 - 🦥🦥🦥Sloths are great🦥🦥🦥
 - Blog coming soon
