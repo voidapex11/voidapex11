@@ -6,3 +6,4 @@
 - controversial statement: "vim."
 - 🦥🦥🦥Sloths are great🦥🦥🦥
 - Blog coming soon
+- I have a pgp key!!!
